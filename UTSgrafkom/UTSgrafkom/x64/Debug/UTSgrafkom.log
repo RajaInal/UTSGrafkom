@@ -1,0 +1,7 @@
+﻿  UTSgrafkom.cpp
+C:\Users\mbukh\source\repos\UTSgrafkom\UTSgrafkom\UTSgrafkom.cpp(113,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\mbukh\source\repos\UTSgrafkom\UTSgrafkom\UTSgrafkom.cpp(142,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\mbukh\source\repos\UTSgrafkom\UTSgrafkom\UTSgrafkom.cpp(143,53): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\mbukh\source\repos\UTSgrafkom\UTSgrafkom\UTSgrafkom.cpp(143,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  UTSgrafkom.vcxproj -> C:\Users\mbukh\source\repos\UTSgrafkom\x64\Debug\UTSgrafkom.exe
+          1 file(s) copied.
